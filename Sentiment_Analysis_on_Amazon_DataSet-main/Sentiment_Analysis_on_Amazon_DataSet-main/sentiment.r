@@ -11,7 +11,7 @@ library(tidyverse)
 
 
 set.seed(5152)
-kindle <- read.csv("C://Users//Akhil//Downloads//kindle_reviews.csv")
+kindle <- read.csv("C://Users//Koushik//Downloads//kindle_reviews.csv")
 View(kindle)
 
 #getSources()
