@@ -87,8 +87,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at:
-- Email: palukuriakhil1@gmail.com
-- GitHub: 2110030166Akhil
+- Email: koushik17x@gmail.com
+- GitHub: Koushik-Mondra
 
 ---
 
